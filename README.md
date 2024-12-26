@@ -41,7 +41,7 @@ The key point of this code is here the code is post defined code all inputs are 
 
 
 
-                                                                                                Conclusion:
+Conclusion:
 The project "Flight Reservation System" is developed to assist passengers book a ticket and cancel it. The project can be further extended to manage partial cancelation of ticket and manage the ticket booking with halts.
 
 
